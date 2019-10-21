@@ -49,6 +49,17 @@
   - Thread pool
   - Thread-specific storage
   - Two-phase termination
+- その他
+  - Abstract Class
+  - Before/After
+  - Generation Gap
+  - Hook Operation
+  - Immutable
+  - Marker Interface
+  - Monostate
+  - Null Object
+  - Sharable
+  - Single-Active-Instance Singleton
 
 ## アーキテクチャレベル
 - レイヤードアーキテクチャ
@@ -64,3 +75,4 @@
 - [デザインパターン(wikipedia)](https://ja.wikipedia.org/wiki/デザインパターン_%28ソフトウェア%29)
 - [デザインパターン一覧(wikipedia)](https://ja.wikipedia.org/wiki/デザインパターンの一覧)
 - [Java言語で学ぶデザインパターン入門](https://www.amazon.co.jp/dp/4797327030)
+- [GoF以外のパターン](https://www.hyuki.com/dp/dpinfo.html)
