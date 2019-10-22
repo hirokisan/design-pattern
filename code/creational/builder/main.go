@@ -7,17 +7,17 @@ type Output struct {
 	ID int
 }
 
+// Builder : 材料（表現形式）を用意し、結果を生成する機能を持つ
+type Builder interface {
+	SetID(int) Builder
+	Build() *Output
+}
+
 // Director : builderを使って結果を生成する役割を担う
 type Director struct{}
 
 func NewDirector() *Director {
 	return &Director{}
-}
-
-// Builder : 材料（表現形式）を用意し、結果を生成する機能を持つ
-type Builder interface {
-	SetID(int) Builder
-	Build() *Output
 }
 
 func (d *Director) BuildOutput(builder Builder) *Output {
