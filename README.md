@@ -76,3 +76,4 @@
 - [デザインパターン一覧(wikipedia)](https://ja.wikipedia.org/wiki/デザインパターンの一覧)
 - [Java言語で学ぶデザインパターン入門](https://www.amazon.co.jp/dp/4797327030)
 - [GoF以外のパターン](https://www.hyuki.com/dp/dpinfo.html)
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns)
