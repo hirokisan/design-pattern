@@ -10,6 +10,7 @@ type Instance interface {
 	FirstMethod()
 }
 
+// NewAbstractFactory : インプットに応じて生成するfactoryが決まる
 func NewAbstractFactory(name string) Factory {
 	switch name {
 	case "first":
