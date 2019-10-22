@@ -9,8 +9,8 @@
 ## コードレベル
 - GoF23
   - 生成
-    - Abstract Factory
-    - Builder
+    - [Abstract Factory](/code/creational/abstract_factory/)
+    - [Builder](/code/creational/builder/)
     - Factory Method
     - Prototype
     - Singleton
