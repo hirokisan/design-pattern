@@ -11,7 +11,7 @@
   - 生成
     - [Abstract Factory](/code/creational/abstract_factory/)
     - [Builder](/code/creational/builder/)
-    - Factory Method
+    - [Factory Method](/code/creational/factory-method/)
     - Prototype
     - Singleton
   - 構造
@@ -32,7 +32,7 @@
     - Observer(Pub/Sub)
     - State
     - Strategy
-    - Template Method
+    - [Template Method](/code/behavioral/template_method/)
     - Visitor
 - マルチスレッド
   - Active Object
