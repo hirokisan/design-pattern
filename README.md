@@ -12,8 +12,8 @@
     - [Abstract Factory](/code/creational/abstract_factory/)
     - [Builder](/code/creational/builder/)
     - [Factory Method](/code/creational/factory-method/)
-    - Prototype
-    - Singleton
+    - [Prototype](/code/creational/prototype/)
+    - [Singleton](/code/creational/singleton/)
   - 構造
     - Adapter
     - Bridge
