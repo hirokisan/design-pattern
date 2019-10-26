@@ -15,7 +15,7 @@
     - [Prototype](/code/creational/prototype/)
     - [Singleton](/code/creational/singleton/)
   - 構造
-    - Adapter
+    - [Adapter](/code/structural/adapter/)
     - Bridge
     - Composite
     - Decorator
