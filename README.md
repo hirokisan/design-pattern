@@ -17,7 +17,7 @@
   - 構造
     - [Adapter](/code/structural/adapter/)
     - [Bridge](/code/structural/bridge/)
-    - Composite
+    - [Composite](/code/structural/composite/)
     - Decorator
     - Facade
     - Flyweight
