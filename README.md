@@ -18,7 +18,7 @@
     - [Adapter](/code/structural/adapter/)
     - [Bridge](/code/structural/bridge/)
     - [Composite](/code/structural/composite/)
-    - Decorator
+    - [Decorator](/code/structural/decorator/)
     - Facade
     - Flyweight
     - Proxy
