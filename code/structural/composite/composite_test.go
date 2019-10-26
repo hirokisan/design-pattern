@@ -7,7 +7,7 @@ import (
 )
 
 func TestComposite(t *testing.T) {
-	component := composite.NewPerson()
+	component := composite.NewPerson("taro")
 	component.Greet()
 
 	composite := composite.NewComposite()

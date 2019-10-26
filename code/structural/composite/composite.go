@@ -11,8 +11,10 @@ type Person struct {
 	Name string
 }
 
-func NewPerson() *Person {
-	return &Person{}
+func NewPerson(name string) *Person {
+	return &Person{
+		Name: name,
+	}
 }
 
 func (p *Person) Greet() {
