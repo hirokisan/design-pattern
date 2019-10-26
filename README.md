@@ -16,7 +16,7 @@
     - [Singleton](/code/creational/singleton/)
   - 構造
     - [Adapter](/code/structural/adapter/)
-    - Bridge
+    - [Bridge](/code/structural/bridge/)
     - Composite
     - Decorator
     - Facade
