@@ -14,6 +14,7 @@ func TestFlyweight(t *testing.T) {
 
 	assert.Exactly(t, *obj1, *obj2)
 	assert.True(t, obj1 == obj2)
+	assert.Equal(t, "accessible", obj1.Access())
 
 	assert.True(t, obj1 != obj3)
 }

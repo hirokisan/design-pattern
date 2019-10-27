@@ -1,20 +1,24 @@
 package flyweight
 
 var (
-	instanceList = make(map[string]*Instance, 0)
+	instanceList = make(map[string]*instance, 0)
 )
 
-type Instance struct {
+type instance struct {
 	Key string
 }
 
-func newInstance(key string) *Instance {
-	return &Instance{
+func (i *instance) Access() string {
+	return "accessible"
+}
+
+func newInstance(key string) *instance {
+	return &instance{
 		Key: key,
 	}
 }
 
-func GetOrCreateInstance(key string) *Instance {
+func GetOrCreateInstance(key string) *instance {
 	if v, ok := instanceList[key]; ok {
 		return v
 	}
