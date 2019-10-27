@@ -23,7 +23,7 @@
     - [Flyweight](/code/structural/flyweight/)
     - [Proxy](/code/structural/proxy/)
   - 振る舞い
-    - Chain of Responsibility
+    - [Chain of Responsibility](/code/behavioral/chain_of_responsibility/)
     - Command
     - Interpreter
     - Iterator
