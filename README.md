@@ -19,7 +19,7 @@
     - [Bridge](/code/structural/bridge/)
     - [Composite](/code/structural/composite/)
     - [Decorator](/code/structural/decorator/)
-    - Facade
+    - [Facade](/code/structural/facade/)
     - Flyweight
     - Proxy
   - 振る舞い
