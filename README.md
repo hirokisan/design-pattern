@@ -20,7 +20,7 @@
     - [Composite](/code/structural/composite/)
     - [Decorator](/code/structural/decorator/)
     - [Facade](/code/structural/facade/)
-    - Flyweight
+    - [Flyweight](/code/structural/flyweight/)
     - Proxy
   - 振る舞い
     - Chain of Responsibility
