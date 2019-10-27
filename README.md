@@ -21,7 +21,7 @@
     - [Decorator](/code/structural/decorator/)
     - [Facade](/code/structural/facade/)
     - [Flyweight](/code/structural/flyweight/)
-    - Proxy
+    - [Proxy](/code/structural/proxy/)
   - 振る舞い
     - Chain of Responsibility
     - Command
