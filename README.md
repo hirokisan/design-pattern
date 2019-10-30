@@ -25,7 +25,7 @@
   - 振る舞い
     - [Chain of Responsibility](/code/behavioral/chain_of_responsibility/)
     - [Command](/code/behavioral/command/)
-    - Interpreter
+    - [Interpreter](/code/behavioral/interpreter/)
     - Iterator
     - Mediator
     - Memento
