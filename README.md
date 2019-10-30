@@ -24,7 +24,7 @@
     - [Proxy](/code/structural/proxy/)
   - 振る舞い
     - [Chain of Responsibility](/code/behavioral/chain_of_responsibility/)
-    - Command
+    - [Command](/code/behavioral/command/)
     - Interpreter
     - Iterator
     - Mediator
