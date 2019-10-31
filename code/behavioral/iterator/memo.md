@@ -1,0 +1,5 @@
+# memo
+
+集約オブジェクトからiteratorを生成する
+iteratorというのは走査処理
+他の走査処理をしたければ別のiteratorを生成すれば良い

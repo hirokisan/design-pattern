@@ -26,7 +26,7 @@
     - [Chain of Responsibility](/code/behavioral/chain_of_responsibility/)
     - [Command](/code/behavioral/command/)
     - [Interpreter](/code/behavioral/interpreter/)
-    - Iterator
+    - [Iterator](/code/behavioral/iterator/)
     - Mediator
     - Memento
     - Observer(Pub/Sub)
