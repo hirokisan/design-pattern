@@ -27,7 +27,7 @@
     - [Command](/code/behavioral/command/)
     - [Interpreter](/code/behavioral/interpreter/)
     - [Iterator](/code/behavioral/iterator/)
-    - Mediator
+    - [Mediator](/code/behavioral/mediator/)
     - Memento
     - Observer(Pub/Sub)
     - State
