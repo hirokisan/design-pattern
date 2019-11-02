@@ -1,6 +1,6 @@
 package memento
 
-// Memento : 状態を保持する
+// memento : 状態を保持する
 type memento struct {
 	fieldA int
 }
