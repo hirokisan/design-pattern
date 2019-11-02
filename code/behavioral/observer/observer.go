@@ -29,7 +29,7 @@ func NewObserver() *observer {
 
 type Subject interface {
 	Name() string
-	AddObserver(Observer)
+	SetObserver(Observer)
 	notifyObserver() error
 }
 
@@ -48,7 +48,7 @@ func (s *subject) Name() string {
 	return s.name
 }
 
-func (s *subject) AddObserver(observer Observer) {
+func (s *subject) SetObserver(observer Observer) {
 	s.observer = observer
 }
 

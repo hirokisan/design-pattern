@@ -10,7 +10,7 @@ import (
 func TestObserver(t *testing.T) {
 	obs := observer.NewObserver()
 	sub := observer.NewSubject("tom")
-	sub.AddObserver(obs)
+	sub.SetObserver(obs)
 
 	assert.NoError(t, sub.ChangeName("subject"))
 	assert.Equal(t, observer.ErrNofityObserver, sub.ChangeName("observer"))
