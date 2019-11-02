@@ -29,7 +29,7 @@
     - [Iterator](/code/behavioral/iterator/)
     - [Mediator](/code/behavioral/mediator/)
     - [Memento](/code/behavioral/memento/)
-    - Observer(Pub/Sub)
+    - [Observer(Pub/Sub)](/code/behavioral/observer/)
     - State
     - Strategy
     - [Template Method](/code/behavioral/template_method/)
