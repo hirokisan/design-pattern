@@ -31,7 +31,7 @@
     - [Memento](/code/behavioral/memento/)
     - [Observer(Pub/Sub)](/code/behavioral/observer/)
     - [State](/code/behavioral/state/)
-    - Strategy
+    - [Strategy](/code/behavioral/strategy/)
     - [Template Method](/code/behavioral/template_method/)
     - Visitor
 - マルチスレッド
