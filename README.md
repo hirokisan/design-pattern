@@ -1,10 +1,10 @@
 # design-pattern
 
-コードレベル、アーキテクチャレベル等で使われるベストプラクティスであるデザインパターンを学習するためのリポジトリです
+コードレベル、アーキテクチャレベルで使われるベストプラクティスであるデザインパターンを学習するリポジトリです
 
-デザインパターンを学習することを通して、良い設計・悪い設計を理解できれば良いなという気持ちです
+デザインパターンの学習を通して、良い設計・悪い設計を理解できれば良いなという気持ちです
 
-言語仕様によってはデザインパターンが役立つ場合も役立たない場合もあるかもしれませんが、設計の姿勢を理解すれば設計の際に役立つだろうと思っています
+言語仕様によってはデザインパターンが役立たない場合もあるかもしれませんが、その背景を理解すれば設計の際に役立つだろうと思っています
 
 ## コードレベル
 - GoF23
@@ -76,4 +76,7 @@
 - [デザインパターン一覧(wikipedia)](https://ja.wikipedia.org/wiki/デザインパターンの一覧)
 - [Java言語で学ぶデザインパターン入門](https://www.amazon.co.jp/dp/4797327030)
 - [GoF以外のパターン](https://www.hyuki.com/dp/dpinfo.html)
-- [tmrts/go-patterns](https://github.com/tmrts/go-patterns)
+- いろんなリポジトリがあるので、参考になりそう :sparkles:
+  - [tmrts/go-patterns](https://github.com/tmrts/go-patterns)
+  - [bvwells/go-patterns](https://github.com/bvwells/go-patterns)
+  - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern)
