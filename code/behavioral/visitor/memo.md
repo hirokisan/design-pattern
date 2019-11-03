@@ -1,0 +1,5 @@
+# memo
+
+strategyと似ているような感じもするが、
+- strategyはstrategyを扱うオブジェクトに内包されるのに対して、visitorはvisitされる側がvisitorを内包しない
+- visitorはデータに対してiterateするケースを想定しているのでそもそもユースケースが違うという話もありそう
