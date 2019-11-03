@@ -69,7 +69,7 @@
 
 ## 関連
 - アナリシスパターン
-- アンチパターン
+- [アンチパターン](https://github.com/hirokisan/anti-pattern)
 
 ## 参考
 - [デザインパターン(wikipedia)](https://ja.wikipedia.org/wiki/デザインパターン_%28ソフトウェア%29)
