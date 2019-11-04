@@ -70,6 +70,36 @@
 ## 関連
 - アナリシスパターン
 - [アンチパターン](https://github.com/hirokisan/anti-pattern)
+- ソフトウェア法則・原則
+  - SOLID
+    - 単一責任の原則(SRP:single responsibility principle)
+    - 解放閉鎖の原則(OCP:open closed principle)
+    - リスコフの置換原則(LSP:liskov substitution principle)
+    - インターフェイス分離の原則(ISP:interface segregation principle)
+    - 依存性逆転の原則(DIP:dependency inversion principle)
+    - 最小知識の原則(Principle of Least Knowledge)
+  - KISS(keep it simple stupid)
+  - DRY(dont repeat yourself)
+  - YAGNI(You aren't gonna need it)
+  - Worse is better
+  - ヴィルトの法則
+  - ブルックスの法則
+  - コンウェイの法則
+  - ホフスタッターの法則
+  - 驚き最小の原則
+  - ボーイスカウトの規則
+  - パーキンソンの法則
+  - ハインリッヒの法則
+  - リーナスの法則
+  - ヒックの法則
+  - マーフィーの法則
+  - リーマンの法則
+  - ポステルの法則
+  - パレートの法則
+  - スタージョンの法則
+  - ピーターの法則
+  - ザヴィンスキーの法則
+  - フィッツの法則
 
 ## 参考
 - [デザインパターン(wikipedia)](https://ja.wikipedia.org/wiki/デザインパターン_%28ソフトウェア%29)
@@ -80,3 +110,7 @@
   - [tmrts/go-patterns](https://github.com/tmrts/go-patterns)
   - [bvwells/go-patterns](https://github.com/bvwells/go-patterns)
   - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern)
+- [ソフトウェア原則](http://objectclub.jp/technicaldoc/object-orientation/principle/)
+- [開発者が知っておくべきSOLIDの原則](https://postd.cc/solid-principles-every-developer-should-know/)
+- [何かのときにすっと出したい、プログラミングに関する法則・原則一覧](https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63)
+- [人名を冠したソフトウェア開発の19の法則](https://www.yamdas.org/column/technique/19laws.html)
