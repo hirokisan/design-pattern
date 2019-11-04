@@ -114,3 +114,4 @@
 - [開発者が知っておくべきSOLIDの原則](https://postd.cc/solid-principles-every-developer-should-know/)
 - [何かのときにすっと出したい、プログラミングに関する法則・原則一覧](https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63)
 - [人名を冠したソフトウェア開発の19の法則](https://www.yamdas.org/column/technique/19laws.html)
+- [Martin Fowler's Bliki (ja)](https://bliki-ja.github.io)
