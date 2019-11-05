@@ -60,6 +60,7 @@
   - Null Object
   - Sharable
   - Single-Active-Instance Singleton
+  - Object Pool
 
 ## アーキテクチャレベル
 - レイヤードアーキテクチャ
