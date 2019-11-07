@@ -71,36 +71,7 @@
 ## 関連
 - アナリシスパターン
 - [アンチパターン](https://github.com/hirokisan/anti-pattern)
-- ソフトウェア法則・原則
-  - SOLID
-    - 単一責任の原則(SRP:single responsibility principle)
-    - 解放閉鎖の原則(OCP:open closed principle)
-    - リスコフの置換原則(LSP:liskov substitution principle)
-    - インターフェイス分離の原則(ISP:interface segregation principle)
-    - 依存性逆転の原則(DIP:dependency inversion principle)
-    - 最小知識の原則(Principle of Least Knowledge)
-  - KISS(keep it simple stupid)
-  - DRY(dont repeat yourself)
-  - YAGNI(You aren't gonna need it)
-  - Worse is better
-  - ヴィルトの法則
-  - ブルックスの法則
-  - コンウェイの法則
-  - ホフスタッターの法則
-  - 驚き最小の原則
-  - ボーイスカウトの規則
-  - パーキンソンの法則
-  - ハインリッヒの法則
-  - リーナスの法則
-  - ヒックの法則
-  - マーフィーの法則
-  - リーマンの法則
-  - ポステルの法則
-  - パレートの法則
-  - スタージョンの法則
-  - ピーターの法則
-  - ザヴィンスキーの法則
-  - フィッツの法則
+- [ソフトウェア法則・原則](https://github.com/hirokisan/software-principle)
 
 ## 参考
 - [デザインパターン(wikipedia)](https://ja.wikipedia.org/wiki/デザインパターン_%28ソフトウェア%29)
