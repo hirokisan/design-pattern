@@ -53,7 +53,7 @@
   - Before/After
   - Generation Gap
   - [Hook Operation](/other/hook_operation/)
-  - Immutable
+  - [Immutable](/other/immutable/)
   - Marker Interface
   - Monostate
   - Null Object
