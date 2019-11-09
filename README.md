@@ -50,10 +50,9 @@
   - Thread-specific storage
   - Two-phase termination
 - その他
-  - Abstract Class
   - Before/After
   - Generation Gap
-  - Hook Operation
+  - [Hook Operation](/other/hook_operation/)
   - Immutable
   - Marker Interface
   - Monostate
