@@ -54,7 +54,7 @@
   - Generation Gap
   - [Hook Operation](/other/hook_operation/)
   - [Immutable](/other/immutable/)
-  - Marker Interface
+  - [Marker Interface](/other/marker_interface/)
   - Monostate
   - Null Object
   - Sharable
@@ -77,6 +77,7 @@
 - [デザインパターン一覧(wikipedia)](https://ja.wikipedia.org/wiki/デザインパターンの一覧)
 - [Java言語で学ぶデザインパターン入門](https://www.amazon.co.jp/dp/4797327030)
 - [GoF以外のパターン](https://www.hyuki.com/dp/dpinfo.html)
+- [Empty Interface](http://www.minaandrawos.com/2017/12/29/empty-interface-go-programming-language/)
 - いろんなリポジトリがあるので、参考になりそう :sparkles:
   - [tmrts/go-patterns](https://github.com/tmrts/go-patterns)
   - [bvwells/go-patterns](https://github.com/bvwells/go-patterns)
