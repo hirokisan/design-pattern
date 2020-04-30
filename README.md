@@ -1,5 +1,7 @@
 # design-pattern
 
+[![CircleCI](https://circleci.com/gh/hirokisan/design-pattern.svg?style=svg)](https://circleci.com/gh/hirokisan/design-pattern)
+
 デザインパターンを理解する
 
 アーキテクチャ、コードが対象です
